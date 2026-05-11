@@ -170,3 +170,7 @@ pip install opencv-python numpy
 - Python ≥ 3.7
 - OpenCV (`cv2`)
 - NumPy (`numpy`)
+
+---
+
+**联系方式：** hekunhe98@126.com
